@@ -1,0 +1,6 @@
+i0=int(input("Primeiro número inteiro: "))
+i1=int(input("Segundo número inteiro: "))
+f0=float(input("Número real: "))
+print(f"O produto do dobro de {i0} com metade de {i1} é: {(i0*2)*(i1/2)}")
+print(f"A soma do triplo de {i0} com {f0} é: {(i0*3)+f0}")
+print(f"{f0} elevado ao cubo é: {f0**3}")

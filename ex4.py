@@ -1,0 +1,5 @@
+bim1=float(input("Primeiro Bimestre:    "))
+bim2=float(input("Segundo Bimestre:    "))
+bim3=float(input("Terceiro Bimestre:    "))
+bim4=float(input("Quarto Bimestre:    "))
+print(f"Média: {(bim1+bim2+bim3+bim4)/4}")
